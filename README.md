@@ -2,8 +2,8 @@
 I am a passionate and disciplined beginner in full stack web development, currently building my skills in HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL. I approach learning with strong dedication, consistency, and a professional mindset.<br><br>I am highly eager to grow, continuously improve my abilities, and develop real-world projects that strengthen my understanding. Committed to learning best practices and writing clean, efficient code, I am on a focused journey to becoming a proficient full stack developer.
 
 ## 🌐 Socials:
-<a href="mailto:haseebdn04@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+<a href="https://mail.google.com/mail/?view=cm&to=haseebdn04@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email"/>
 </a>
 
 # 💻 Tech Stack:
